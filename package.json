@@ -1,0 +1,10 @@
+{
+  "name": "test-meta-coin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "manasnisar <anasnisar980@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafka-node": "^5.0.0"
+  }
+}
